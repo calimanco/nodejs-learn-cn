@@ -11,6 +11,7 @@ All articles live under `pages/`, organized into topic sections:
 | --------------------- | ------------------------------------------------------- |
 | `getting-started/`    | Introduction, V8 engine, dev vs production, WebAssembly |
 | `asynchronous-work/`  | Event loop, callbacks, promises, streams                |
+| `concurrency/`        | Child process, worker threads, cluster                  |
 | `command-line/`       | REPL, environment variables, CLI I/O                    |
 | `diagnostics/`        | Debugging, profiling, memory, performance               |
 | `file-system/`        | File paths, stats, reading, writing, folders            |

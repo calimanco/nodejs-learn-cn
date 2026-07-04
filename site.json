@@ -291,6 +291,15 @@
       ]
     },
     {
+      "groupName": "Concurrency",
+      "items": [
+        {
+          "link": "/learn/concurrency/comparing-nodejs-concurrency-models",
+          "label": "Comparing Node.js concurrency models"
+        }
+      ]
+    },
+    {
       "groupName": "TypeScript",
       "items": [
         {

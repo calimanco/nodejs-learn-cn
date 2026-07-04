@@ -11,6 +11,7 @@ Welcome to the Node.js learning resources. Whether you're just getting started o
 - [HTTP](/learn/http/anatomy-of-an-http-transaction) — Build web servers and work with HTTP
 - [File System](/learn/manipulating-files/nodejs-file-stats) — Read, write, and manipulate files
 - [Asynchronous Work](/learn/asynchronous-work/javascript-asynchronous-programming-and-callbacks) — Understand async patterns, promises, and the event loop
+- [Concurrency](/learn/concurrency/comparing-nodejs-concurrency-models) — Compare child processes, worker threads, and cluster
 - [TypeScript](/learn/typescript/introduction) — Use TypeScript with Node.js
 - [Package Management](/learn/getting-started/an-introduction-to-the-npm-package-manager) — Publish and manage packages
 - [Diagnostics](/learn/diagnostics/user-journey) — Debug performance and memory issues
