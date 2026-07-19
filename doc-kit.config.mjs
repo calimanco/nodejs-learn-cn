@@ -7,7 +7,7 @@ const origin =
 /** @type {import('@node-core/doc-kit/src/utils/configuration/types.d.ts').Configuration} */
 export default {
   global: {
-    output: 'out/learn',
+    output: 'out',
     input: ['pages/**/*.md'],
     baseURL: `https://${origin}/learn`,
   },
@@ -20,7 +20,7 @@ export default {
     title: '{project} Learn',
     pageURL: '{baseURL}{path}.html',
     editURL: 'https://github.com/nodejs/learn/edit/main/pages{path}.md',
-    useAbsoluteURLs: true,
+    useAbsoluteURLs: false,
     templatePath: join(import.meta.dirname, 'template.html'),
 
     // Imports
