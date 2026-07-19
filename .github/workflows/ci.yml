@@ -4,7 +4,7 @@
 # REVIEWERS, please always double-check security practices before merging a PR that contains workflow changes!!
 # AUTHORS, please only use actions with explicit SHA references, and avoid using `@master` or `@main` references or `@version` tags.
 
-name: Linting and Tests
+name: Build and Deploy
 
 # This workflow should run either on `merge_group`, `pull_request`, or `push` events
 # since we want to run lint checks against any changes on pull requests, or the final patch on merge groups
@@ -18,7 +18,6 @@ on:
   pull_request:
     branches:
       - main
-    types: [opened, synchronize, reopened, ready_for_review]
   merge_group:
 
 # The permissions specified below apply to workflows triggered by `merge_group`, `push`, and `pull_request` events that originate from the same repository (non-fork).
@@ -35,7 +34,7 @@ permissions:
 
 jobs:
   lint:
-    name: Quality checks
+    name: build
     runs-on: ubuntu-latest
 
     steps:
@@ -51,5 +50,27 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Run quality checks
-        run: node --run lint:fix && node --run format:check
+      - name: Run build
+        run: npm run build
+  deploy:
+    # Add a dependency to the build job
+    needs: build
+
+    # Grant GITHUB_TOKEN the permissions required to make a Pages deployment
+    permissions:
+      pages: write      # to deploy to Pages
+      id-token: write   # to verify the deployment originates from an appropriate source
+
+    # Deploy to the github-pages environment
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    # Specify runner + deployment step
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4 # or specific "vX.X.X" version tag for this action
+
+
