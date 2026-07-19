@@ -57,7 +57,7 @@ jobs:
         id: deployment
         uses: actions/upload-pages-artifact@v3 # or specific "vX.X.X" version tag for this action
         with:
-          path: out/learn/
+          path: out/
   deploy:
     # Add a dependency to the build job
     needs: build
