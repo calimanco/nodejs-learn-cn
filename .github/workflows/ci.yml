@@ -33,7 +33,7 @@ permissions:
   actions: read
 
 jobs:
-  lint:
+  build:
     name: build
     runs-on: ubuntu-latest
 
