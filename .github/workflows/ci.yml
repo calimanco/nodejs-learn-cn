@@ -52,6 +52,12 @@ jobs:
 
       - name: Run build
         run: npm run build
+
+      - name: Upload static files as artifact
+        id: deployment
+        uses: actions/upload-pages-artifact@v3 # or specific "vX.X.X" version tag for this action
+        with:
+          path: out/
   deploy:
     # Add a dependency to the build job
     needs: build
