@@ -2,14 +2,16 @@ import web from '@node-core/doc-kit/src/generators/web/index.mjs';
 import { join } from 'node:path';
 
 const origin =
-  process.env.VERCEL_ENV === 'preview' ? process.env.VERCEL_URL : 'nodejs.org';
+  process.env.VERCEL_ENV === 'preview'
+    ? process.env.VERCEL_URL
+    : 'calimanco.github.io';
 
 /** @type {import('@node-core/doc-kit/src/utils/configuration/types.d.ts').Configuration} */
 export default {
   global: {
-    output: 'out',
+    output: 'out/learn',
     input: ['pages/**/*.md'],
-    baseURL: `https://${origin}/learn`,
+    baseURL: `https://${origin}/nodejs-learn-cn/learn`,
   },
   'jsx-ast': {
     generateIndexPage: false,
@@ -20,7 +22,7 @@ export default {
     title: '{project} Learn',
     pageURL: '{baseURL}{path}.html',
     editURL: 'https://github.com/nodejs/learn/edit/main/pages{path}.md',
-    useAbsoluteURLs: false,
+    useAbsoluteURLs: true,
     templatePath: join(import.meta.dirname, 'template.html'),
 
     // Imports
