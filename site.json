@@ -117,59 +117,59 @@
       "groupName": "Getting Started",
       "items": [
         {
-          "link": "/learn/getting-started/introduction-to-nodejs",
+          "link": "/nodejs-learn-cn/learn/getting-started/introduction-to-nodejs",
           "label": "Introduction to Node.js"
         },
         {
-          "link": "/learn/getting-started/how-much-javascript-do-you-need-to-know-to-use-nodejs",
+          "link": "/nodejs-learn-cn/learn/getting-started/how-much-javascript-do-you-need-to-know-to-use-nodejs",
           "label": "How much JavaScript do you need to know to use Node.js?"
         },
         {
-          "link": "/learn/getting-started/differences-between-nodejs-and-the-browser",
+          "link": "/nodejs-learn-cn/learn/getting-started/differences-between-nodejs-and-the-browser",
           "label": "Differences between Node.js and the Browser"
         },
         {
-          "link": "/learn/getting-started/the-v8-javascript-engine",
+          "link": "/nodejs-learn-cn/learn/getting-started/the-v8-javascript-engine",
           "label": "The V8 JavaScript Engine"
         },
         {
-          "link": "/learn/getting-started/an-introduction-to-the-npm-package-manager",
+          "link": "/nodejs-learn-cn/learn/getting-started/an-introduction-to-the-npm-package-manager",
           "label": "An introduction to the npm package manager"
         },
         {
-          "link": "/learn/getting-started/ecmascript-2015-es6-and-beyond",
+          "link": "/nodejs-learn-cn/learn/getting-started/ecmascript-2015-es6-and-beyond",
           "label": "ECMAScript 2015 (ES6) and beyond"
         },
         {
-          "link": "/learn/getting-started/debugging",
+          "link": "/nodejs-learn-cn/learn/getting-started/debugging",
           "label": "Debugging Node.js"
         },
         {
-          "link": "/learn/getting-started/fetch",
+          "link": "/nodejs-learn-cn/learn/getting-started/fetch",
           "label": "Fetching data with Node.js"
         },
         {
-          "link": "/learn/getting-started/websocket",
+          "link": "/nodejs-learn-cn/learn/getting-started/websocket",
           "label": "WebSocket client with Node.js"
         },
         {
-          "link": "/learn/getting-started/nodejs-the-difference-between-development-and-production",
+          "link": "/nodejs-learn-cn/learn/getting-started/nodejs-the-difference-between-development-and-production",
           "label": "Node.js, the difference between development and production"
         },
         {
-          "link": "/learn/getting-started/profiling",
+          "link": "/nodejs-learn-cn/learn/getting-started/profiling",
           "label": "Profiling Node.js Applications"
         },
         {
-          "link": "/learn/getting-started/nodejs-with-webassembly",
+          "link": "/nodejs-learn-cn/learn/getting-started/nodejs-with-webassembly",
           "label": "Node.js with WebAssembly"
         },
         {
-          "link": "/learn/getting-started/security-best-practices",
+          "link": "/nodejs-learn-cn/learn/getting-started/security-best-practices",
           "label": "Security Best Practices"
         },
         {
-          "link": "/learn/getting-started/userland-migrations",
+          "link": "/nodejs-learn-cn/learn/getting-started/userland-migrations",
           "label": "Introduction to Userland Migrations"
         }
       ]
@@ -178,23 +178,23 @@
       "groupName": "Command Line",
       "items": [
         {
-          "link": "/learn/command-line/run-nodejs-scripts-from-the-command-line",
+          "link": "/nodejs-learn-cn/learn/command-line/run-nodejs-scripts-from-the-command-line",
           "label": "Run Node.js scripts from the command line"
         },
         {
-          "link": "/learn/command-line/how-to-use-the-nodejs-repl",
+          "link": "/nodejs-learn-cn/learn/command-line/how-to-use-the-nodejs-repl",
           "label": "How to use the Node.js REPL"
         },
         {
-          "link": "/learn/command-line/output-to-the-command-line-using-nodejs",
+          "link": "/nodejs-learn-cn/learn/command-line/output-to-the-command-line-using-nodejs",
           "label": "Output to the command line using Node.js"
         },
         {
-          "link": "/learn/command-line/accept-input-from-the-command-line-in-nodejs",
+          "link": "/nodejs-learn-cn/learn/command-line/accept-input-from-the-command-line-in-nodejs",
           "label": "Accept input from the command line in Node.js"
         },
         {
-          "link": "/learn/command-line/how-to-read-environment-variables-from-nodejs",
+          "link": "/nodejs-learn-cn/learn/command-line/how-to-read-environment-variables-from-nodejs",
           "label": "How to read environment variables from Node.js"
         }
       ]
@@ -203,11 +203,11 @@
       "groupName": "HTTP",
       "items": [
         {
-          "link": "/learn/http/anatomy-of-an-http-transaction",
+          "link": "/nodejs-learn-cn/learn/http/anatomy-of-an-http-transaction",
           "label": "Anatomy of an HTTP Transaction"
         },
         {
-          "link": "/learn/http/enterprise-network-configuration",
+          "link": "/nodejs-learn-cn/learn/http/enterprise-network-configuration",
           "label": "Enterprise Network Configuration"
         }
       ]
@@ -216,31 +216,31 @@
       "groupName": "Manipulating Files",
       "items": [
         {
-          "link": "/learn/manipulating-files/nodejs-file-stats",
+          "link": "/nodejs-learn-cn/learn/manipulating-files/nodejs-file-stats",
           "label": "Node.js file stats"
         },
         {
-          "link": "/learn/manipulating-files/nodejs-file-paths",
+          "link": "/nodejs-learn-cn/learn/manipulating-files/nodejs-file-paths",
           "label": "Node.js File Paths"
         },
         {
-          "link": "/learn/manipulating-files/reading-files-with-nodejs",
+          "link": "/nodejs-learn-cn/learn/manipulating-files/reading-files-with-nodejs",
           "label": "Reading files with Node.js"
         },
         {
-          "link": "/learn/manipulating-files/writing-files-with-nodejs",
+          "link": "/nodejs-learn-cn/learn/manipulating-files/writing-files-with-nodejs",
           "label": "Writing files with Node.js"
         },
         {
-          "link": "/learn/manipulating-files/working-with-file-descriptors-in-nodejs",
+          "link": "/nodejs-learn-cn/learn/manipulating-files/working-with-file-descriptors-in-nodejs",
           "label": "Working with file descriptors in Node.js"
         },
         {
-          "link": "/learn/manipulating-files/working-with-folders-in-nodejs",
+          "link": "/nodejs-learn-cn/learn/manipulating-files/working-with-folders-in-nodejs",
           "label": "Working with folders in Node.js"
         },
         {
-          "link": "/learn/manipulating-files/working-with-different-filesystems",
+          "link": "/nodejs-learn-cn/learn/manipulating-files/working-with-different-filesystems",
           "label": "How to work with Different Filesystems"
         }
       ]
@@ -249,43 +249,43 @@
       "groupName": "Asynchronous Work",
       "items": [
         {
-          "link": "/learn/asynchronous-work/javascript-asynchronous-programming-and-callbacks",
+          "link": "/nodejs-learn-cn/learn/asynchronous-work/javascript-asynchronous-programming-and-callbacks",
           "label": "JavaScript Asynchronous Programming and Callbacks"
         },
         {
-          "link": "/learn/asynchronous-work/asynchronous-flow-control",
+          "link": "/nodejs-learn-cn/learn/asynchronous-work/asynchronous-flow-control",
           "label": "Asynchronous flow control"
         },
         {
-          "link": "/learn/asynchronous-work/discover-promises-in-nodejs",
+          "link": "/nodejs-learn-cn/learn/asynchronous-work/discover-promises-in-nodejs",
           "label": "Discover Promises in Node.js"
         },
         {
-          "link": "/learn/asynchronous-work/discover-javascript-timers",
+          "link": "/nodejs-learn-cn/learn/asynchronous-work/discover-javascript-timers",
           "label": "Discover JavaScript Timers"
         },
         {
-          "link": "/learn/asynchronous-work/overview-of-blocking-vs-non-blocking",
+          "link": "/nodejs-learn-cn/learn/asynchronous-work/overview-of-blocking-vs-non-blocking",
           "label": "Overview of Blocking vs Non-Blocking"
         },
         {
-          "link": "/learn/asynchronous-work/event-loop-timers-and-nexttick",
+          "link": "/nodejs-learn-cn/learn/asynchronous-work/event-loop-timers-and-nexttick",
           "label": "The Node.js Event Loop"
         },
         {
-          "link": "/learn/asynchronous-work/the-nodejs-event-emitter",
+          "link": "/nodejs-learn-cn/learn/asynchronous-work/the-nodejs-event-emitter",
           "label": "The Node.js Event Emitter"
         },
         {
-          "link": "/learn/asynchronous-work/understanding-processnexttick",
+          "link": "/nodejs-learn-cn/learn/asynchronous-work/understanding-processnexttick",
           "label": "Understanding process.nextTick()"
         },
         {
-          "link": "/learn/asynchronous-work/understanding-setimmediate",
+          "link": "/nodejs-learn-cn/learn/asynchronous-work/understanding-setimmediate",
           "label": "Understanding setImmediate()"
         },
         {
-          "link": "/learn/asynchronous-work/dont-block-the-event-loop",
+          "link": "/nodejs-learn-cn/learn/asynchronous-work/dont-block-the-event-loop",
           "label": "Don't Block the Event Loop"
         }
       ]
@@ -294,7 +294,7 @@
       "groupName": "Concurrency",
       "items": [
         {
-          "link": "/learn/concurrency/comparing-nodejs-concurrency-models",
+          "link": "/nodejs-learn-cn/learn/concurrency/comparing-nodejs-concurrency-models",
           "label": "Comparing Node.js concurrency models"
         }
       ]
@@ -303,23 +303,23 @@
       "groupName": "TypeScript",
       "items": [
         {
-          "link": "/learn/typescript/introduction",
+          "link": "/nodejs-learn-cn/learn/typescript/introduction",
           "label": "Introduction to TypeScript"
         },
         {
-          "link": "/learn/typescript/run-natively",
+          "link": "/nodejs-learn-cn/learn/typescript/run-natively",
           "label": "Running TypeScript Natively"
         },
         {
-          "link": "/learn/typescript/transpile",
+          "link": "/nodejs-learn-cn/learn/typescript/transpile",
           "label": "Running TypeScript code using transpilation"
         },
         {
-          "link": "/learn/typescript/run",
+          "link": "/nodejs-learn-cn/learn/typescript/run",
           "label": "Running TypeScript with a runner"
         },
         {
-          "link": "/learn/typescript/publishing-a-ts-package",
+          "link": "/nodejs-learn-cn/learn/typescript/publishing-a-ts-package",
           "label": "Publishing a TypeScript package"
         }
       ]
@@ -328,23 +328,23 @@
       "groupName": "Modules",
       "items": [
         {
-          "link": "/learn/modules/how-to-use-streams",
+          "link": "/nodejs-learn-cn/learn/modules/how-to-use-streams",
           "label": "How to use streams"
         },
         {
-          "link": "/learn/modules/backpressuring-in-streams",
+          "link": "/nodejs-learn-cn/learn/modules/backpressuring-in-streams",
           "label": "Backpressuring in Streams"
         },
         {
-          "link": "/learn/modules/publishing-a-package",
+          "link": "/nodejs-learn-cn/learn/modules/publishing-a-package",
           "label": "Publishing a package"
         },
         {
-          "link": "/learn/modules/publishing-node-api-modules",
+          "link": "/nodejs-learn-cn/learn/modules/publishing-node-api-modules",
           "label": "How to publish a Node-API package"
         },
         {
-          "link": "/learn/modules/abi-stability",
+          "link": "/nodejs-learn-cn/learn/modules/abi-stability",
           "label": "ABI Stability"
         }
       ]
@@ -353,65 +353,65 @@
       "groupName": "Diagnostics",
       "items": [
         {
-          "link": "/learn/diagnostics/user-journey",
+          "link": "/nodejs-learn-cn/learn/diagnostics/user-journey",
           "label": "User Journey"
         },
         {
-          "link": "/learn/diagnostics/memory",
+          "link": "/nodejs-learn-cn/learn/diagnostics/memory",
           "label": "Memory",
           "items": [
             {
-              "link": "/learn/diagnostics/memory",
+              "link": "/nodejs-learn-cn/learn/diagnostics/memory",
               "label": "Overview"
             },
             {
-              "link": "/learn/diagnostics/memory/understanding-and-tuning-memory",
+              "link": "/nodejs-learn-cn/learn/diagnostics/memory/understanding-and-tuning-memory",
               "label": "Understanding and Tuning Memory"
             },
             {
-              "link": "/learn/diagnostics/memory/using-heap-profiler",
+              "link": "/nodejs-learn-cn/learn/diagnostics/memory/using-heap-profiler",
               "label": "Using Heap Profiler"
             },
             {
-              "link": "/learn/diagnostics/memory/using-heap-snapshot",
+              "link": "/nodejs-learn-cn/learn/diagnostics/memory/using-heap-snapshot",
               "label": "Using Heap Snapshot"
             },
             {
-              "link": "/learn/diagnostics/memory/using-gc-traces",
+              "link": "/nodejs-learn-cn/learn/diagnostics/memory/using-gc-traces",
               "label": "Tracing garbage collection"
             }
           ]
         },
         {
-          "link": "/learn/diagnostics/live-debugging",
+          "link": "/nodejs-learn-cn/learn/diagnostics/live-debugging",
           "label": "Live Debugging",
           "items": [
             {
-              "link": "/learn/diagnostics/live-debugging",
+              "link": "/nodejs-learn-cn/learn/diagnostics/live-debugging",
               "label": "Overview"
             },
             {
-              "link": "/learn/diagnostics/live-debugging/using-inspector",
+              "link": "/nodejs-learn-cn/learn/diagnostics/live-debugging/using-inspector",
               "label": "Using Inspector"
             }
           ]
         },
         {
-          "link": "/learn/diagnostics/poor-performance",
+          "link": "/nodejs-learn-cn/learn/diagnostics/poor-performance",
           "label": "Poor Performance",
           "items": [
             {
-              "link": "/learn/diagnostics/poor-performance",
+              "link": "/nodejs-learn-cn/learn/diagnostics/poor-performance",
               "label": "Overview"
             },
             {
-              "link": "/learn/diagnostics/poor-performance/using-linux-perf",
+              "link": "/nodejs-learn-cn/learn/diagnostics/poor-performance/using-linux-perf",
               "label": "Using Linux Perf"
             }
           ]
         },
         {
-          "link": "/learn/diagnostics/flame-graphs",
+          "link": "/nodejs-learn-cn/learn/diagnostics/flame-graphs",
           "label": "Flame Graphs"
         }
       ]
@@ -420,19 +420,19 @@
       "groupName": "Test Runner",
       "items": [
         {
-          "link": "/learn/test-runner/introduction",
+          "link": "/nodejs-learn-cn/learn/test-runner/introduction",
           "label": "Discovering Node.js's test runner"
         },
         {
-          "link": "/learn/test-runner/using-test-runner",
+          "link": "/nodejs-learn-cn/learn/test-runner/using-test-runner",
           "label": "Using Node.js's test runner"
         },
         {
-          "link": "/learn/test-runner/mocking",
+          "link": "/nodejs-learn-cn/learn/test-runner/mocking",
           "label": "Mocking in tests"
         },
         {
-          "link": "/learn/test-runner/collecting-code-coverage",
+          "link": "/nodejs-learn-cn/learn/test-runner/collecting-code-coverage",
           "label": "Collecting code coverage in Node.js"
         }
       ]
@@ -441,87 +441,87 @@
       "groupName": "Node-API",
       "items": [
         {
-          "link": "/learn/node-api",
+          "link": "/nodejs-learn-cn/learn/node-api",
           "label": "What is Node-API?"
         },
         {
-          "link": "/learn/node-api/getting-started",
+          "link": "/nodejs-learn-cn/learn/node-api/getting-started",
           "label": "Getting Started",
           "items": [
             {
-              "link": "/learn/node-api/getting-started",
+              "link": "/nodejs-learn-cn/learn/node-api/getting-started",
               "label": "Overview"
             },
             {
-              "link": "/learn/node-api/getting-started/prerequisites",
+              "link": "/nodejs-learn-cn/learn/node-api/getting-started/prerequisites",
               "label": "Pre-requisites"
             },
             {
-              "link": "/learn/node-api/getting-started/tools",
+              "link": "/nodejs-learn-cn/learn/node-api/getting-started/tools",
               "label": "Tools"
             },
             {
-              "link": "/learn/node-api/getting-started/project-structure",
+              "link": "/nodejs-learn-cn/learn/node-api/getting-started/project-structure",
               "label": "Anatomy of a Node-API project"
             },
             {
-              "link": "/learn/node-api/getting-started/your-first-project",
+              "link": "/nodejs-learn-cn/learn/node-api/getting-started/your-first-project",
               "label": "Your First Project"
             },
             {
-              "link": "/learn/node-api/getting-started/objectwrap",
+              "link": "/nodejs-learn-cn/learn/node-api/getting-started/objectwrap",
               "label": "Object Wrap"
             },
             {
-              "link": "/learn/node-api/getting-started/migration",
+              "link": "/nodejs-learn-cn/learn/node-api/getting-started/migration",
               "label": "Migrating to Node-API"
             }
           ]
         },
         {
-          "link": "/learn/node-api/build-tools",
+          "link": "/nodejs-learn-cn/learn/node-api/build-tools",
           "label": "Build Tools",
           "items": [
             {
-              "link": "/learn/node-api/build-tools",
+              "link": "/nodejs-learn-cn/learn/node-api/build-tools",
               "label": "Overview"
             },
             {
-              "link": "/learn/node-api/build-tools/node-gyp",
+              "link": "/nodejs-learn-cn/learn/node-api/build-tools/node-gyp",
               "label": "node-gyp"
             },
             {
-              "link": "/learn/node-api/build-tools/cmake-js",
+              "link": "/nodejs-learn-cn/learn/node-api/build-tools/cmake-js",
               "label": "CMake.js"
             },
             {
-              "link": "/learn/node-api/build-tools/node-pre-gyp",
+              "link": "/nodejs-learn-cn/learn/node-api/build-tools/node-pre-gyp",
               "label": "node-pre-gyp"
             }
           ]
         },
         {
-          "link": "/learn/node-api/special-topics",
+          "link": "/nodejs-learn-cn/learn/node-api/special-topics",
           "label": "Special Topics",
           "items": [
             {
-              "link": "/learn/node-api/special-topics",
+              "link": "/nodejs-learn-cn/learn/node-api/special-topics",
               "label": "Overview"
             },
             {
-              "link": "/learn/node-api/special-topics/context-awareness",
+              "link": "/nodejs-learn-cn/learn/node-api/special-topics/context-awareness",
               "label": "Context Awareness"
             },
             {
-              "link": "/learn/node-api/special-topics/object-function-refs",
+              "link": "/nodejs-learn-cn/learn/node-api/special-topics/object-function-refs",
               "label": "Object and Function References"
             },
             {
-              "link": "/learn/node-api/special-topics/asyncworker",
+              "link": "/nodejs-learn-cn/learn/node-api/special-topics/asyncworker",
               "label": "AsyncWorker"
             },
             {
-              "link": "/learn/node-api/special-topics/thread-safe-functions",
+              "link": "/nodejs-learn-cn/learn/node-api/special-topics/thread-safe-functions",
               "label": "Thread-Safe Functions"
             }
           ]
